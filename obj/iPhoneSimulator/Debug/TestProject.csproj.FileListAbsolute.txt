@@ -1,0 +1,9 @@
+/Users/johnd20/Projects/TestProject/TestProject/bin/iPhoneSimulator/Debug/TestProject.exe
+/Users/johnd20/Projects/TestProject/TestProject/bin/iPhoneSimulator/Debug/TestProject.pdb
+/Users/johnd20/Projects/TestProject/TestProject/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/johnd20/Projects/TestProject/TestProject/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_PartialAppManifest.items
+/Users/johnd20/Projects/TestProject/TestProject/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
+/Users/johnd20/Projects/TestProject/TestProject/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
+/Users/johnd20/Projects/TestProject/TestProject/obj/iPhoneSimulator/Debug/TestProject.csproj.CoreCompileInputs.cache
+/Users/johnd20/Projects/TestProject/TestProject/obj/iPhoneSimulator/Debug/TestProject.exe
+/Users/johnd20/Projects/TestProject/TestProject/obj/iPhoneSimulator/Debug/TestProject.pdb
